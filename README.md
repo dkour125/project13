@@ -23,3 +23,13 @@ This end-to-end pipeline includes:
 - SQLite for data storage
 - FastAPI or Flask for REST API
 - matplotlib, seaborn for visualization
+
+# 🧠 **How This Project Stands Out**  
+While chat apps are common, this project:  
+✔ **Prioritizes Simplicity** – No unnecessary bloat; focuses on core functionality.  
+✔ **Custom UI** – Clean, self-designed interface (not a template).  
+✔ **Extensible** – Easy to add features (e.g., emoji picker, user profiles).  
+
+#🔥 **Challenges Overcome**  
+- **Real-time Sync**: Implemented Firestore’s `onSnapshot` for live updates.  
+- **Auth-State Handling**: Managed user persistence with Firebase Auth.  
